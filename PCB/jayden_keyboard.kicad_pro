@@ -52,36 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "duplicate_footprints|273843750|104775000|6e192dac-c11c-40d7-8913-47e819d77854|3806076f-6374-4495-9ce6-cda5e02eccfe",
-          "Stabilizer"
-        ],
-        [
-          "duplicate_footprints|280987500|85725000|1a8a611e-8e4c-4dc6-916d-357bacf4ec5b|3806076f-6374-4495-9ce6-cda5e02eccfe",
-          "Stabilizer"
-        ],
-        [
-          "duplicate_footprints|283368750|28575000|0bf3b21c-2ab4-4f19-b9f9-1474a36abab7|3806076f-6374-4495-9ce6-cda5e02eccfe",
-          "Stabilizer"
-        ],
-        [
-          "extra_footprint|157162500|123825000|3806076f-6374-4495-9ce6-cda5e02eccfe|00000000-0000-0000-0000-000000000000",
-          "Stabilizer"
-        ],
-        [
-          "extra_footprint|273843750|104775000|6e192dac-c11c-40d7-8913-47e819d77854|00000000-0000-0000-0000-000000000000",
-          "Stabilizer"
-        ],
-        [
-          "extra_footprint|280987500|85725000|1a8a611e-8e4c-4dc6-916d-357bacf4ec5b|00000000-0000-0000-0000-000000000000",
-          "Stabilizer"
-        ],
-        [
-          "extra_footprint|283368750|28575000|0bf3b21c-2ab4-4f19-b9f9-1474a36abab7|00000000-0000-0000-0000-000000000000",
-          "It's the stabilizer for it"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },

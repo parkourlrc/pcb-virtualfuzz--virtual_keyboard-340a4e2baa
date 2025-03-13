@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "jayden_keyboard.step",
       "svg": "",
       "vrml": ""
     },

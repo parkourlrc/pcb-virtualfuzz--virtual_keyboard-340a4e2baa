@@ -62070,6 +62070,18 @@
 		(layer "Edge.Cuts")
 		(uuid "e9f48786-8737-4ab4-8659-11b16cc3b37a")
 	)
+	(gr_text "Arctic\nkeyboard\n\n:3"
+		(at 309.25 128.75 0)
+		(layer "Edge.Cuts")
+		(uuid "0d27607f-193a-4439-99c8-239d278fb849")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 249.9725 59.3725)
 		(end 249.9725 74.317291)

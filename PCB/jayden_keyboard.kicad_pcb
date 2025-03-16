@@ -28844,7 +28844,7 @@
 		(uuid "79697d67-4cc2-4065-810f-0952f7b0c41e")
 		(at 171.45 80.9625)
 		(property "Reference" "SW51"
-			(at 167 32.9027 0)
+			(at 0.05 3.15 0)
 			(layer "F.Fab")
 			(uuid "f28b1f2d-53db-4c0e-8ced-c187f888f77d")
 			(effects
@@ -28855,7 +28855,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 167 21.7902 0)
+			(at 0.05 -7.9625 0)
 			(layer "Dwgs.User")
 			(uuid "13904b39-ae01-4e53-ba8d-f73118ad2ec3")
 			(effects

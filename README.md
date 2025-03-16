@@ -1,5 +1,43 @@
 # arctic_keyboard
 
+![Screenshot of the full keyboard](./screenshots/full-screenshot.png)
+
+A custom 60% keyboard with the F* keys.
+
+Uses kmk for the firmware, maybe in the future I will switch to Rust.
+
+Supposed to be a minimal keyboard.
+
+## Schematic
+
+![Schematic of the PCB](./screenshots/schematic.png)
+
+## PCB
+
+![PCB of the keyboard](./screenshots/pcb.png)
+
+## Case
+
+The case is supposed to stick together using screws, not sure if they will fit.\
+I think I'll use some tape or a wire to hold it together if it doesn't fit.
+
+## Bill of Materials
+
+### Electronics
+
+|QTY|Name|Part number|
+|1|Orpheus PICO|
+|78|Diodes|1N4148WL|
+|78|Kailh Hotswap Sockets|
+
+### Keyboard components
+
+|QTY|Name|
+|78|Cherry MX keys|
+|78|Swittches
+|?|Stabilizers
+
+
 ## Keyboard Layout (KLE raw data)
 
 ISO layout

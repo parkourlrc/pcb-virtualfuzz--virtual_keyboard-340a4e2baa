@@ -2,11 +2,14 @@
 
 ![Screenshot of the full keyboard](./screenshots/full-screenshot.png)
 
-A custom 60% keyboard with the F* keys.
-
 Uses kmk for the firmware, maybe in the future I will switch to Rust.
 
-Supposed to be a minimal keyboard.
+The goal of this keyboard is to be one that I like, not one with a bunch
+of fancy features. It's as minimal as I like it to be, 60% keyboards seem
+good, but I still need F keys because for some games it better to have them.
+
+For the arrow keys, I don't think it's that bad not having them thanks to
+WASD keys.
 
 ## Schematic
 
@@ -33,10 +36,14 @@ I think I'll use some tape or a wire to hold it together if it doesn't fit.
 ### Keyboard components
 
 |QTY|Name|
-|78|Cherry MX keys|
-|78|Swittches
-|?|Stabilizers
-
+|1|Bottom case|
+|1|Top case|
+|4|Self-drilling Screws|
+|78|DSA keycaps|
+|78|Cherry MX Switches|
+|1|6.25u Stabilizer|
+|2|2u Stabilizers|
+|1|2.75u Stabilizer|
 
 ## Keyboard Layout (KLE raw data)
 

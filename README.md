@@ -21,6 +21,10 @@ WASD keys.
 
 ## Case
 
+![Bottom of the case](./screenshots/bottom.png)
+
+![Top of the case](./screenshots/top.png)
+
 The case is supposed to stick together using screws, not sure if they will fit.\
 I think I'll use some tape or a wire to hold it together if it doesn't fit.
 
@@ -29,6 +33,7 @@ I think I'll use some tape or a wire to hold it together if it doesn't fit.
 ### Electronics
 
 |QTY|Name|Part number|
+|---|----|-----------|
 |1|Orpheus PICO|
 |78|Diodes|1N4148WL|
 |78|Kailh Hotswap Sockets|
@@ -36,6 +41,7 @@ I think I'll use some tape or a wire to hold it together if it doesn't fit.
 ### Keyboard components
 
 |QTY|Name|
+|---|----|
 |1|Bottom case|
 |1|Top case|
 |4|Self-drilling Screws|
@@ -48,6 +54,8 @@ I think I'll use some tape or a wire to hold it together if it doesn't fit.
 ## Keyboard Layout (KLE raw data)
 
 ISO layout
+
+![Keyboard layout, it is an AZERTY-AFNOR 60% keyboard with the F keys](./screenshots/keyboard-layout.png)
 
 ```
 ["Esc","F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","Print screen","Delete"],

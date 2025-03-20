@@ -62364,7 +62364,7 @@
 		(layer "Edge.Cuts")
 		(uuid "e9f48786-8737-4ab4-8659-11b16cc3b37a")
 	)
-	(gr_text "Arctic\nkeyboard\n\n:3"
+	(gr_text "Virtual\nkeyboard\n\n:3"
 		(at 309 128.75 0)
 		(layer "F.SilkS")
 		(uuid "36cf6dc3-2114-4275-8247-bc42cecbcbb0")

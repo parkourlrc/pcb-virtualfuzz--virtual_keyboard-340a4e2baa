@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © `2025` `Jayden295`
+Copyright © `2025` `virtualfuzz`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation

@@ -1,4 +1,4 @@
-# arctic_keyboard
+# virtual_keyboard
 
 ![Screenshot of the full keyboard](./screenshots/full-screenshot.png)
 

@@ -56,7 +56,6 @@ ISO layout
 
 ![Keyboard layout, it is an AZERTY-AFNOR 65% keyboard with the F keys](./screenshots/keyboard-layout.png)
 
-Resize: Spacebar; Shift key
 ```
 ["Esc","F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","Print screen","Delete"],
 ["#\n@","1\nà","2\né","3\nè","4\nê","5\n(","6\n)","7\n‘","8\n’","9\n«","0\n»","\"\n'","¨\n^",{w:2},"Backspace"],

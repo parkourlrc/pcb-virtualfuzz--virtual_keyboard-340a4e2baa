@@ -3,6 +3,7 @@ print("Starting")
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
+from tkinter.constants import RIGHT
 from kmk.keys import KC
 from kmk.scanners import DiodeOrientation
 
@@ -19,8 +20,8 @@ keyboard.keymap = [
     [KC.GRAVE,      KC.N1,  KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7, KC.N8,    KC.N9,  KC.N0,      KC.MINUS,   KC.EQUAL,   KC.BSPACE],
     [KC.TAB,        KC.Q,   KC.W,  KC.E,  KC.R,  KC.T,  KC.Y,  KC.U,  KC.I,     KC.O,   KC.P,       KC.LBRACKET,KC.RBRACKET,KC.BSLASH],
     [KC.CAPSLOCK,   KC.A,   KC.S,  KC.D,  KC.F,  KC.G,  KC.H,  KC.J,  KC.K,     KC.L,   KC.SCOLON,  KC.QUOTE,   KC.ENTER],
-    [KC.LSHIFT,     KC.LEFT_ANGLE_BRACKET, KC.Z,   KC.X,  KC.C,  KC.V,  KC.B,  KC.N,  KC.M,  KC.COMMA, KC.DOT, KC.SLASH,   KC.RSHIFT],
-    [KC.LCTRL, KC.NO, KC.LGUI, KC.LALT, KC.SPACE, KC.RALT, KC.RGUI, KC.NO, KC.RCTRL  ] # The KC.NO will be FN keys once I have the actual keyboard to test this on
+    [KC.LSHIFT,     KC.LEFT_ANGLE_BRACKET, KC.Z,   KC.X,  KC.C,  KC.V,  KC.B,  KC.N,  KC.M,  KC.COMMA, KC.DOT, KC.SLASH,   KC.RSHIFT, KC.UP],
+    [KC.LCTRL, KC.NO, KC.LGUI, KC.LALT, KC.SPACE, KC.RALT, KC.RGUI, KC.RCTRL, KC.LEFT, KC.DOWN, KC.RIGHT  ] # The KC.NO will be FN keys once I have the actual keyboard to test this on
 ]
 
 if __name__ == '__main__':

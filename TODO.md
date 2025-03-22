@@ -7,15 +7,15 @@ Making process:
   - [x] top
 - [x] Firmware
 
-
+- update screenshots
+- ADD SCREENSHOT OF THE CONNECTIONS
+- finally push this
 the two bars to guide fingers
 
 features:
 - wireless support (with it being secure) (not possible)
 - usb support (iwht it being secure)
 - silent keycaps, i dont want to blow my ears off typing on it
-- no numpads, after all im not really using it
-- pause button, things related to music should be there
 
 list of things:
 - stabilizers rmemeber to put it in the list
